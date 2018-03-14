@@ -1,6 +1,12 @@
 # iosReads
 Список материалов для изучающих iOS
 
+## Книги
+* http://www.labirint.ru/books/348473/ - Objective-C начальный уровень (ru)
+* https://www.labirint.ru/books/442832/ - Objective-C начальный уровень (ru)
+* https://www.labirint.ru/books/422378/ - Objective-C (но стоит читать всем) средний уровень (ru)
+* https://www.amazon.com/Programming-iOS-11-Controllers-Frameworks/dp/1491999225/ref=sr_1_1?ie=UTF8&qid=1521017016&sr=8-1&keywords=swift+matt - Отличная книга для погружения в разработку iOS начальный уровень (ru)
+* https://git-scm.com/book/ru/v2 - GIT начальный уровень (ru)
 
 ## Безопастность
 
