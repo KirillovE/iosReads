@@ -8,10 +8,21 @@
 * https://www.amazon.com/Programming-iOS-11-Controllers-Frameworks/dp/1491999225/ref=sr_1_1?ie=UTF8&qid=1521017016&sr=8-1&keywords=swift+matt - Отличная книга для погружения в разработку iOS начальный уровень (ru)
 * https://git-scm.com/book/ru/v2 - GIT начальный уровень (ru)
 
-## Безопастность
+## Порталы с примерами:
+http://www.appcoda.com (en)
+https://www.raywenderlich.com (en)
+
+## Сервисы вопрос/ответ
+https://toster.ru (ru)
+http://ru.stackoverflow.com (ru)
+http://stackoverflow.com (en)
+
+## Статьи
+
+### Безопастность
 
 * https://habrahabr.ru/company/redmadrobot/blog/349272/ - основные принципы защиты данных в приложении
 
-## Библиотеки
+### Библиотеки
 * https://eli.thegreenplace.net/2017/benefits-of-dependencies-in-software-projects-as-a-function-of-effort/ - какое количество библиотек можно добавлять в проект
 * http://holko.pl/2017/05/31/avoiding-ui-libraries/ - Можно ли использовать в своих проектах сторонние UI-компоненты? С
