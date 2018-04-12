@@ -19,9 +19,13 @@ http://stackoverflow.com (en)
 
 ## Статьи
 
+## UI
+
+* https://oleb.net/blog/2014/04/understanding-uiscrollview/ - Показывает на пальцах как работает UIScrollView (Начальный уровень)
+
 ### Безопастность
 
-* https://habrahabr.ru/company/redmadrobot/blog/349272/ - основные принципы защиты данных в приложении
+* https://habrahabr.ru/company/redmadrobot/blog/349272/ - основные принципы защиты данных в приложении (Средний уровень)
 
 ### Библиотеки
 * https://eli.thegreenplace.net/2017/benefits-of-dependencies-in-software-projects-as-a-function-of-effort/ - какое количество библиотек можно добавлять в проект
