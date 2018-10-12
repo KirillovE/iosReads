@@ -24,7 +24,6 @@
 ## Задачи для тренировки
 
 * www.codewars.com
-* www.codewars.com
 
 ## Статьи
 
