@@ -21,6 +21,11 @@
 * http://ru.stackoverflow.com (ru)
 * http://stackoverflow.com (en)
 
+## Задачи для тренировки
+
+* www.codewars.com
+* www.codewars.com
+
 ## Статьи
 
 ## UI
