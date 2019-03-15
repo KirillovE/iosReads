@@ -31,10 +31,10 @@
 
 * [Показывает на пальцах как работает UIScrollView](https://oleb.net/blog/2014/04/understanding-uiscrollview/) (Начальный уровень)
 
-### Безопастность
+### Безопасность
 
-* [основные принципы защиты данных в приложении](https://habrahabr.ru/company/redmadrobot/blog/349272/) (Средний уровень)
+* [Основные принципы защиты данных в приложении](https://habrahabr.ru/company/redmadrobot/blog/349272/) (Средний уровень)
 
 ### Библиотеки
-* [какое количество библиотек можно добавлять в проект](https://eli.thegreenplace.net/2017/benefits-of-dependencies-in-software-projects-as-a-function-of-effort/)
+* [Какое количество библиотек можно добавлять в проект?](https://eli.thegreenplace.net/2017/benefits-of-dependencies-in-software-projects-as-a-function-of-effort/)
 * [Можно ли использовать в своих проектах сторонние UI-компоненты?](http://holko.pl/2017/05/31/avoiding-ui-libraries/)
